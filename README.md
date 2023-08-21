@@ -15,6 +15,24 @@ Exploring the Titanic dataset through the lens of data analytics! 📈 Leveragin
 
 Join the journey of data exploration and discovery. Let's embark on this insightful voyage together! ⚓
 
+Objectives Marked -:
+
+1.) Analyse the population with respect to Age and Sex
+
+2.) Analyse the Fare count with respect to Age group
+
+3.) Analyse the Fare count with respect to Gender group
+
+4.) Figuring out the count of people with different Age group in each Pclass
+
+5.) Analyse the survival population based on Gender group
+
+6.) Analyse the survival population based on Age group
+
+7.) Counting the drop in Fare cost against Pclass
+
+Projects-:
+
 1.) Data Analytics through Google Sheets - https://docs.google.com/spreadsheets/d/1zwubmDAgvxTWNuBWWx1ki2XfdYHm_tpZVe9KY15vpLk/edit?usp=sharing
 
 
