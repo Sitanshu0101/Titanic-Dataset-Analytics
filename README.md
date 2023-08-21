@@ -15,3 +15,11 @@ Exploring the Titanic dataset through the lens of data analytics! 📈 Leveragin
 
 Join the journey of data exploration and discovery. Let's embark on this insightful voyage together! ⚓
 
+1.) Data Analytics through Google Sheets - https://docs.google.com/spreadsheets/d/1zwubmDAgvxTWNuBWWx1ki2XfdYHm_tpZVe9KY15vpLk/edit?usp=sharing
+
+
+2.) Exploratory Data Analytics through Python - https://colab.research.google.com/drive/1SoGQGcWQJkABC1iJJ3x0Kfq14Uxi5DQ2?usp=sharing
+
+
+3.) Power BI Analytics - https://drive.google.com/file/d/1z_SMLje91VzFpKIZhe-SJ6OgdXi067ve/view?usp=drive_link
+
